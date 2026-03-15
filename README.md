@@ -2,4 +2,4 @@
 Login Page UI with Bootstrap v5.2.1
 
 # Screen
-![alt text](https://hizliresim.com/8oifp86)
+![alt text](https://i.hizliresim.com/8oifp86.png)
